@@ -1,7 +1,7 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
+Robert Ballenger
+Module 6 Lab 1
 <assignment/lab description
 """
 
@@ -11,7 +11,9 @@ Process: description of what function does
 Output: return value and description
 """
 
+
 def main():
     # code here
 
-main()    
+
+main()
